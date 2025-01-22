@@ -8,11 +8,7 @@ Hi! I'm **GodopGaming**, passionate about gaming, software development, and crea
 ## Repository Overview
 This repository serves as a hub for all my coding adventures. You can expect to find projects like:
 
-- **First-Person Shooter Games** (Unreal Engine)
-- **Python and Pygame Projects**
 - **Web Apps** like a **Scientific Calculator**
-- **AI Personal Assistants** (using Ullama)
-- E-commerce applications
 
 Feel free to explore the code, raise issues, or contribute if you'd like to collaborate!
 
