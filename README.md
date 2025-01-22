@@ -19,7 +19,7 @@ Feel free to explore the code, raise issues, or contribute if you'd like to coll
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/GodopGaming/your-repo-name.git
+   git clone https://github.com/GodopGaming/ygodopgaming.git
    ```
 2. Follow the README file for each individual project to get started.
 3. Explore, modify, and share your contributions!
@@ -29,7 +29,7 @@ Pull requests are welcome! If you have an idea for a feature or an improvement, 
 
 ## Contact
 - **GitHub:** [GodopGaming](https://github.com/GodopGaming)
-- **Email:** [your-email@example.com]
+- **Email:** [imashutoshsingh15@gmail.com]
 - **Discord:** GodopGaming#1234
 
 Thanks for stopping by! 🙌
